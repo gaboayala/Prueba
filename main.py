@@ -29,7 +29,7 @@ VIDEOS = {'Animals': [{'name': 'Crab',
                        'genre': 'Animals'},
                       {'name': 'Turtle',
                        'thumb': 'http://www.vidsplay.com/wp-content/uploads/2017/04/turtle-screenshot.jpg',
-                       'video': 'http://www.vidsplay.com/wp-content/uploads/2017/04/turtle.mp4',
+                       'video': 'https://www.youtube.com/watch?v=CMNry4PE93Y',
                        'genre': 'Animals'}
                       ],
             'Cars': [{'name': 'Postal Truck',
